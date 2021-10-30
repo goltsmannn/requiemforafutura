@@ -1,5 +1,7 @@
 #these files won't be included in commits
 libs
 .idea
+config.py
 __pycache__
 responses.txt
+gallery
